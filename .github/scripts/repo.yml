@@ -1,0 +1,16 @@
+TITLE_1: SCE0620
+TITLE_2: Análise e Projeto Orientado a Objeto
+SUBTITLE_1: Disciplina de graduação
+SUBTITLE_2: Material de aula, notebooks e referências.
+
+ABOUT: |
+  Este site organiza as aulas, exercícios e material suplementar da disciplina.
+
+REFERENCIAS: |
+  <ul>
+    <li>Livro A …</li>
+    <li>Artigo B …</li>
+  </ul>
+
+GITHUB_LINK: https://github.com/Academic-Codex/SCE0620-Analise-e-Projeto-Orientado-a-Objeto
+HERO_FILE: analise-projetos-orientado-objeto.png
