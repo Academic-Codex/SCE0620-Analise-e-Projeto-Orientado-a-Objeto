@@ -1,0 +1,12 @@
+REPO_TAGLINE: Object-oriented analysis • modeling • design
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/SCE0620-Analise-e-Projeto-Orientado-a-Objeto
+
+BG_1: "#3F1D0B"
+BG_2: "#7C2D12"
+TEXT_MAIN: "#FFF7ED"
+TEXT_MUTED: "#FED7AA"
+ACCENT: "#FB923C"
+CARD_RADIUS: "18"
